@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Maps/Arena.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Maps/big%20arena.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Maps/shooting%20range%20map.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Maps/traning%20area%20lobby.lua"))();
