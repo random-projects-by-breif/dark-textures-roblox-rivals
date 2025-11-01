@@ -1,5 +1,5 @@
 # this is a script for dark textures inside of rivals
-
+we recomend you put it in auto execute
 # this is the main loadstring for it
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Loader.lua"))()
