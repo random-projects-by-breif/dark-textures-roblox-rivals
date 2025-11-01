@@ -1,4 +1,9 @@
-# this is a script for dark textures inside of rivals
+# dark textures
+## yes its real no side effects no dark weapons and only the maps that dark textures look good in go try it out
+
+
+
+
 we recomend you put it in auto execute
 # this is the main loadstring for it
 lobby shooting range can bug causing it to not load dark textures if that happens re execute script or just do thte 4tht script
