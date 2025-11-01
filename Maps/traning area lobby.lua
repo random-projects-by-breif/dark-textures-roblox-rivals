@@ -1,4 +1,3 @@
-task.wait(30)
 local TARGET_COLOR = Color3.fromRGB(52, 52, 55)
 local CONTAINER_PATH = workspace.Lobby.ShootingRange.Extra
 
