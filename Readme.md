@@ -6,7 +6,6 @@
 
 we recomend you put it in auto execute
 # this is the main loadstring for it
-lobby shooting range can bug causing it to not load dark textures if that happens re execute script or just do thte 4tht script
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Loader.lua"))()
 ```
