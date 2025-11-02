@@ -27,3 +27,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-br
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/dark-textures-roblox-rivals/refs/heads/main/Maps/traning%20area%20lobby.lua"))()
 ```
+# -- changelogs.
+1. added map arena
+2. added map big arena
+3. added shooting range map
+4. adding lobby shooting range
+5. added main script
+6. added loader
+7. patched issue with shooting range sometimes not turning dark if you load in late
